@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Leon Lin"
+title                    : "Leon Lin's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Lin Liangtao"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master at NUS"
   location         : "China & Singapore"
-  employer         : "NUS"
+  employer         : "National University of Sinagpore"
   uri              : # URL
   email            : "leonlin@u.nus.edu" 
 
